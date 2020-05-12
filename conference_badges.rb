@@ -17,7 +17,7 @@ def assign_rooms(attendees)
 end
 
  
- def print(attendees)
-   
+ def printer(attendees)
+  
  end
  
